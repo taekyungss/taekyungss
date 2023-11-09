@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20taetae's%20GitHub%20👋&animation=fadeIn&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <h3 align="center">😊 Introduce myself 😊</h3>
-<div align="center">&nbsp;
-🏫 I am Kim Taekyung, an undergraduate student majoring in Industrial System Engineering at Dongguk University, with a second major in Data Science.
+🏫 I am Kim Taekyung, an undergraduate student majoring in Industrial System Engineering at Dongguk University, with a second major in Data Science.&nbsp;
 
-<h3 align="center">⭐ Histroy ⭐</h3>
+<h3 align="center">⭐ History ⭐</h3>
 <div align="center">&nbsp;
 
 ![taetae's GitHub stats](https://github-readme-stats.vercel.app/api?username=taekyungss&show_icons=true&theme=radical)
