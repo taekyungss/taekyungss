@@ -2,6 +2,7 @@
 
 <h3 align="center">😊 Introduce myself 😊</h3>
 <div align="center">&nbsp;
+🏫 I am Kim Taekyung, an undergraduate student majoring in Industrial System Engineering at Dongguk University, with a second major in Data Science.
 
 <h3 align="center">⭐ Histroy ⭐</h3>
 <div align="center">&nbsp;
