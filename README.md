@@ -1,10 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20taetae's%20GitHub%20👋&animation=fadeIn&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
+<h3 align="center">😊 Introduce myself 😊</h3>
+<div align="center">
+
+<h3 align="center">⭐ Histroy ⭐</h3>
+<div align="center">
+
+![taetae's GitHub stats](https://github-readme-stats.vercel.app/api?username=taekyungss&show_icons=true&theme=radical)
+
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taekyungss&show_icons=true&theme=radical)
  
   
   
