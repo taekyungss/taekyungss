@@ -26,7 +26,9 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Pytorch-3766AB?style=flat-square&logo=Pytorch&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/OpenCV-3766AB?style=flat-square&logo=OpenCV&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/OpenCV-3766AB?style=flat-square&logo=OpenCV&logoColor=white"/></a>
+</a>
+<img src="https://img.shields.io/badge/Langchain-3766AB?style=flat-square&logo=Langchain&logoColor=white"/></a>
 
 </p>
 
