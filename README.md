@@ -28,16 +28,14 @@
 ✔️2022.11~ 2023.01 Deep Daiv, Computer Vision Wiki Team, autumn season Study Member
 
 
-
-
+<div align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">&nbsp;
 <div>
 
 ![taetae's GitHub stats](https://github-readme-stats.vercel.app/api?username=taekyungss&show_icons=true&theme=radical)
 
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">&nbsp;
- 
+
  
 
 
