@@ -18,9 +18,13 @@
 <h3>⭐ History ⭐</h3>
 
 ✔️2023.04 ~ Proceeding, Industrial Systems Engineering IAI Lab Undergraduate Research Student
+
 ✔️2023.07~ 2023.10 Deep Daiv, Diffusion Team, Summer season Study Member
+
 ✔️2023.05~ 2023.07 Deep Daiv, Deep Learning Paper Reading Team, Spring season Diffusion Study Member
+
 ✔️2023.01~ 2023.04 Deep Daiv, Deep Learning Wiki Team, Winter season Study Member
+
 ✔️2022.11~ 2023.01 Deep Daiv, Computer Vision Wiki Team, autumn season Study Member
 
 
