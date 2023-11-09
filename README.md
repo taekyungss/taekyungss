@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20taetae's%20GitHub%20👋&animation=fadeIn&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <h3>😊 Introduce myself 😊</h3>
-🏫 I am Kim Taekyung, an undergraduate student majoring in Industrial System Engineering at Dongguk University, with a second major in Data Science.&nbsp;
-
+🏫 I am Kim Taekyung, an undergraduate student majoring in Industrial System Engineering at Dongguk University, with a second major in Data Science.
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
@@ -17,7 +16,17 @@
 
 
 <h3>⭐ History ⭐</h3>
-<div align="center">&nbsp;
+
+✔️2023.04 ~ Proceeding, Industrial Systems Engineering IAI Lab Undergraduate Research Student
+✔️2023.07~ 2023.10 Deep Daiv, Diffusion Team, Summer season Study Member
+✔️2023.05~ 2023.07 Deep Daiv, Deep Learning Paper Reading Team, Spring season Diffusion Study Member
+✔️2023.01~ 2023.04 Deep Daiv, Deep Learning Wiki Team, Winter season Study Member
+✔️2022.11~ 2023.01 Deep Daiv, Computer Vision Wiki Team, autumn season Study Member
+
+
+
+
+<div>
 
 ![taetae's GitHub stats](https://github-readme-stats.vercel.app/api?username=taekyungss&show_icons=true&theme=radical)
 
