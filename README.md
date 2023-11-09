@@ -14,6 +14,11 @@
   <a href="https://www.instagram.com/taetae_ss_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/taetae_ss_"/></a>&nbsp
   <a href="mailto:wendy1080@dgu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wendy1080@dgu.ac.kr"/></a>
 </p>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+
   
 <!--
 **taekyungss/taekyungss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
