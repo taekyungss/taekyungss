@@ -1,16 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20taetae's%20GitHub%20👋&animation=fadeIn&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <h3 align="center">😊 Introduce myself 😊</h3>
-<div align="center">
+<div align="center">&nbsp;
 
 <h3 align="center">⭐ Histroy ⭐</h3>
-<div align="center">
+<div align="center">&nbsp;
 
 ![taetae's GitHub stats](https://github-readme-stats.vercel.app/api?username=taekyungss&show_icons=true&theme=radical)
 
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
+<div align="center">&nbsp;
  
   
   
@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
+</p>&nbsp;
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -36,7 +36,7 @@
 </a>
 <img src="https://img.shields.io/badge/Langchain-3766AB?style=flat-square&logo=Langchain&logoColor=white"/></a>
 
-</p>
+</p>&nbsp;
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
