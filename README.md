@@ -26,6 +26,7 @@
 ✔️2023.01~ 2023.04 Deep Daiv, Deep Learning Wiki Team, Winter season Study Member
 
 ✔️2022.11~ 2023.01 Deep Daiv, Computer Vision Wiki Team, autumn season Study Member
+&nbsp;
 
 
 <div align="center">👩‍💻 My Github Stats 👩‍💻</h3>
