@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20taetae's%20GitHub%20👋&animation=fadeIn&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <h3>😊 Introduce myself 😊</h3>
-🏫 I am Kim Taekyung, an undergraduate student majoring in Industrial System Engineering at Dongguk University, with a second major in Data Science.
+🏫 I am Kim Taekyung, an undergraduate student majoring in Industrial System Engineering at Dongguk University, 
+
+with a second major in Data Science.
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
@@ -15,19 +17,22 @@
 </p>&nbsp;
 
 
-
-
 <h3>⭐ History ⭐</h3>
 
-✔️2023.04 ~ Proceeding, Industrial Systems Engineering IAI Lab Undergraduate Research Student
+✔️[Visual Intelligence Lab](https://etri-visualintelligence.github.io/) @ ETRI(Electronics and Telecommunications Research Institute) (2024.08 ~ 2024.09)
+  - Research Intern
 
-✔️2023.07~ 2023.10 Deep Daiv, Diffusion Team, Summer season Study Member
+✔️Industrial Systems Engineering IAI Lab @Dongguk.Univ (2023.04 ~ 2024.07)
+  - undergraduate research student
 
-✔️2023.05~ 2023.07 Deep Daiv, Deep Learning Paper Reading Team, Spring season Diffusion Study Member
+✔️ [deep daiv](https://deepdaiv.oopy.io/) (2022.11~ 2024.07)
+  - Computer Vision Wiki (2022.11 ~ 2023.01)
+  - Deep Learning Wiki (2023.01 ~ 2023.04)
+  - Deep Learning Paper Reading (2023.05 ~ 2023.07)
+  - Diffusion (2023.05 ~ 2023.10)
+  - Multimodal (2024.01 ~ 2024.07)
 
-✔️2023.01~ 2023.04 Deep Daiv, Deep Learning Wiki Team, Winter season Study Member
 
-✔️2022.11~ 2023.01 Deep Daiv, Computer Vision Wiki Team, autumn season Study Member
 &nbsp;
 
 
