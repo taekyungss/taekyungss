@@ -2,8 +2,7 @@
 
 <h3>😊 Introduce myself 😊</h3>
 🏫 I am Kim Taekyung, an undergraduate student majoring in Industrial System Engineering at Dongguk University, 
-
-with a second major in Data Science.
+    with a second major in Data Science.
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
@@ -23,7 +22,7 @@ with a second major in Data Science.
   - Research Intern
 
 ✔️Industrial Systems Engineering IAI Lab @Dongguk.Univ (2023.04 ~ 2024.07)
-  - undergraduate research student
+  - Undergraduate Research Student
 
 ✔️ [deep daiv](https://deepdaiv.oopy.io/) (2022.11~ 2024.07)
   - Computer Vision Wiki (2022.11 ~ 2023.01)
