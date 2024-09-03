@@ -19,7 +19,7 @@ with a second major in Data Science.
 
 <h3>⭐ History ⭐</h3>
 
-✔️[Visual Intelligence Lab](https://etri-visualintelligence.github.io/) @ ETRI(Electronics and Telecommunications Research Institute) (2024.08 ~ 2024.09)
+✔️[Visual Intelligence Lab](https://etri-visualintelligence.github.io/) @ [ETRI (Electronics and Telecommunications Research Institute)](https://www.etri.re.kr/eng/main/main.etri) (2024.08 ~ 2024.09)
   - Research Intern
 
 ✔️Industrial Systems Engineering IAI Lab @Dongguk.Univ (2023.04 ~ 2024.07)
